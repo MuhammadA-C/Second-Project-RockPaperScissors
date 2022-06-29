@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cwipV1/Wborb9w8nIfBicwgn0BwYRqt8U2lsdnzJ03gWXZGK2xtlsaIAUWBGm2EWXUpmoFff1TRNq+ZmIQidnA==",
+  "success": true,
+  "projectFilePath": "/Users/muhammadchambers/Desktop/GitHub/Second-Project-RockPaperScissors/RockPaperScissors-Project.csproj",
+  "expectedPackageFiles": [
+    "/Users/muhammadchambers/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/muhammadchambers/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/muhammadchambers/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
